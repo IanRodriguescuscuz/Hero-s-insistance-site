@@ -1,0 +1,23 @@
+body{
+    background:radial-gradient(circle,#06050e, #000000);
+    margin: 0px;
+    font-family: 'Press Start 2P', cursive;}
+
+header {
+  background-color:rgb(20, 20, 20);
+  border-bottom: 5px solid rgb(10, 10, 10);
+  padding: 20px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;}
+
+.uldoheader{list-style: none;
+    display: flex;
+    gap: 100px;
+    margin: 0px;
+    padding: 0px;}
+
+.navegacaodoheader{
+    color: rgb(234, 255, 0);
+    text-decoration: none;
+}
